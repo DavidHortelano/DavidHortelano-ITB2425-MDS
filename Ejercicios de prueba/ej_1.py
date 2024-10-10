@@ -3,3 +3,4 @@ num2 = int(input("Dime otro numero"))
 resultado = num1 + num2
 
 print(resultado)
+print("s'ha cabao")
