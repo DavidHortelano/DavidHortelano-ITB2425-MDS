@@ -1,0 +1,52 @@
+<Incidencias>
+    <Incidencia>
+        <identificador>100</identificador>
+        <Fecha>
+            01/10/2024 8:15:36
+        </Fecha>
+        <Usuario>
+            <Nombre>Sofia</Nombre>
+            <Apellido>Garcia</Apellido>
+            <Correo>david.hortelano.7e8@itb.cat</Correo>
+        </Usuario>
+        <Aula>310</Aula>
+        <Incidencia>Hardware</Incidencia>
+        <Descripcion>Programari bloquejat durant l'ús</Descripcion>
+        <Prioridad>Alta</Prioridad>
+        <Comentario>Solució remota viable</Comentario>
+    </Incidencia>
+
+    <Incidencia>
+        <identificador>112</identificador>
+        <Fecha>
+            23/09/2024 8:44:06
+        </Fecha>
+        <Usuario>
+            <Nombre>Ana</Nombre>
+            <Apellido>Sanchez</Apellido>
+            <Correo>carlos.garcia.7e8@itb.cat</Correo>
+        </Usuario>
+        <Aula>Laboratiori</Aula>
+        <Incidencia>Maquinari</Incidencia>
+        <Descripcion>Impresora no respon</Descripcion>
+        <Prioridad>Mitjana</Prioridad>
+        <Comentario>Requereix técnic urgent</Comentario>
+    </Incidencia>
+
+    <Incidencia>
+        <identificador>92</identificador>
+        <Fecha>
+            23/09/2024 12:29:57
+        </Fecha>
+        <Usuario>
+            <Nombre>Luis</Nombre>
+            <Apellido>Rodriguez</Apellido>
+            <Correo>rehan.farooq.7e8@itb.cat</Correo>
+        </Usuario>
+        <Aula>Biblioteca</Aula>
+        <Incidencia>Periferics</Incidencia>
+        <Descripcion>Programari bloquejat durant l'ús</Descripcion>
+        <Prioridad>Alta</Prioridad>
+        <Comentario>Solució remota viable</Comentario>
+    </Incidencia>
+</Incidencias>

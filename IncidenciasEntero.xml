@@ -1,0 +1,1955 @@
+<Incidencias>
+   <Incidencia>
+      <Usuario>
+         <ID>1</ID>
+         <Nombre>Carlos Garcia</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>206</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>No funciona el teclat de l'ordinador ZLV-076</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>2</ID>
+         <Nombre>Ibrahim Alam</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>206</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>no puc connectar-me al wifi</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Necesito l'ordinador per estudiar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>3</ID>
+         <Nombre>Rehan Farooq</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>206</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>No funciona el sistema operatiu gnu/linux.</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>4</ID>
+         <Nombre>Raul suarez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>108</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No funciona la placa base.</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>5</ID>
+         <Nombre>Francisco Perez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>13/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>NO PUEDO ACCEDER A MI CUENTA</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Si no puedo acceder no puedo avanzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>6</ID>
+         <Nombre>Sergio Jimenez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Error de disc dur , he perdut dades i es ralentitza</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Les dades que tenia eran molt importants</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>7</ID>
+         <Nombre>Maria lopez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>No funciona la part esquerra del mouse.</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>8</ID>
+         <Nombre>Juan Antonio Garcia</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>302</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No funciona bien, no entiendo que pasa</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>AYUDA</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>9</ID>
+         <Nombre>Juan Heredia</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>203</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>M'ha entrat un virus per ficar-me a pàgines que no havia de entrar</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>10</ID>
+         <Nombre>Jose antonio</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>108</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>El wifi va muy lento.</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>11</ID>
+         <Nombre>Marcos Eduardo Martinez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>302</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>El wifi no funciona bien</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>12</ID>
+         <Nombre>Sara Morales</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>301</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>No carga el onlyfans</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Si no carga no cobro</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>13</ID>
+         <Nombre>Marc gonzalez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>HE SIDO AFECTADO POR UN ATAQUE DE PHISHING.</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>14</ID>
+         <Nombre>Luna Diaz</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>103</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>EL ratolí no funcionai està connectat</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Sense el ratolí no puc fer res</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>15</ID>
+         <Nombre>Lucia Callejon</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>207</Dispositivo>
+      <Problema>
+         <Fecha>21/11/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Me han robado el teclado, necesito otro para seguir estudiando</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>16</ID>
+         <Nombre>Toni perez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>303</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>No funciona la grabadora de audio.</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>17</ID>
+         <Nombre>Marc rodriguez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Problemas en el processador de l'ordinador.</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>18</ID>
+         <Nombre>David Gonzalez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Wifi no funciona</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>No surt la red per connectar-se</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>19</ID>
+         <Nombre>Maria Lopez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Sistema operatiu es queda bloquejat</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>20</ID>
+         <Nombre>Maria López</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>204</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>No puc obrir el programari d'edició de vídeo.</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>21</ID>
+         <Nombre>David Martínez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>300</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Connexió a Internet intermitent.</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Necessito la connexió per a la classe en línia</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>22</ID>
+         <Nombre>Paula Jimenez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>301</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>M'han fet un ciber atac
+</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Em poden robar les dades</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>23</ID>
+         <Nombre>Jose Rodriguez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>04/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Teclat té les tecles trencades</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional/>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>24</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>105</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>25</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>26</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>207</Dispositivo>
+      <Problema>
+         <Fecha>17/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>27</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>18/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>28</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>108</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>29</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Laboratori</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>30</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>110</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>31</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>22/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>32</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>203</Dispositivo>
+      <Problema>
+         <Fecha>23/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>33</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>24/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>34</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>307</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>35</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>301</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>36</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>208</Dispositivo>
+      <Problema>
+         <Fecha>27/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>37</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>105</Dispositivo>
+      <Problema>
+         <Fecha>28/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>38</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Secretaria</Dispositivo>
+      <Problema>
+         <Fecha>29/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>39</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Secretaria</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>40</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>103</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>41</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>42</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>43</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>100</Dispositivo>
+      <Problema>
+         <Fecha>04/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>44</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>204</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>45</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>208</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>46</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>109</Dispositivo>
+      <Problema>
+         <Fecha>17/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>47</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>110</Dispositivo>
+      <Problema>
+         <Fecha>18/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>48</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>302</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>49</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>100</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>50</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>51</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>22/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>52</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>23/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>53</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>200</Dispositivo>
+      <Problema>
+         <Fecha>24/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>54</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>203</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>55</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>105</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>56</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>203</Dispositivo>
+      <Problema>
+         <Fecha>27/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>57</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>28/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>58</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>107</Dispositivo>
+      <Problema>
+         <Fecha>29/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>59</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>200</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>60</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>104</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>61</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Secretaria</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>62</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>305</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>63</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>206</Dispositivo>
+      <Problema>
+         <Fecha>04/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>64</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>208</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>65</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>305</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>66</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Laboratori</Dispositivo>
+      <Problema>
+         <Fecha>17/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>67</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>310</Dispositivo>
+      <Problema>
+         <Fecha>18/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>68</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>69</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>70</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>71</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>110</Dispositivo>
+      <Problema>
+         <Fecha>22/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>72</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>23/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>73</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>24/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>74</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Consergeria</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>75</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>300</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>76</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>27/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>77</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>28/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>78</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>29/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>79</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>209</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>80</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>106</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>81</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>204</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>82</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>83</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>305</Dispositivo>
+      <Problema>
+         <Fecha>04/10/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>84</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>100</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>85</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>208</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>86</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Consergeria</Dispositivo>
+      <Problema>
+         <Fecha>17/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>87</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>18/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>88</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>89</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>90</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>303</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>91</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>310</Dispositivo>
+      <Problema>
+         <Fecha>22/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>92</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Biblioteca</Dispositivo>
+      <Problema>
+         <Fecha>23/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>93</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>104</Dispositivo>
+      <Problema>
+         <Fecha>24/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>94</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>106</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>95</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>305</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>96</ID>
+         <Nombre>Marta Ruiz</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>106</Dispositivo>
+      <Problema>
+         <Fecha>27/09/2024</Fecha>
+         <Tipo>Seguretat</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>97</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>103</Dispositivo>
+      <Problema>
+         <Fecha>28/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>98</ID>
+         <Nombre>Mario Gómez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>305</Dispositivo>
+      <Problema>
+         <Fecha>29/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>99</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>110</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>100</ID>
+         <Nombre>Sofía García</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>310</Dispositivo>
+      <Problema>
+         <Fecha>01/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>101</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>107</Dispositivo>
+      <Problema>
+         <Fecha>02/10/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>102</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>101</Dispositivo>
+      <Problema>
+         <Fecha>03/10/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>103</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>04/10/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>104</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>101</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>105</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>204</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>106</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>304</Dispositivo>
+      <Problema>
+         <Fecha>17/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Solució remota viable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>107</ID>
+         <Nombre>Javier Torres</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>106</Dispositivo>
+      <Problema>
+         <Fecha>18/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>108</ID>
+         <Nombre>Sara Fernández</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>201</Dispositivo>
+      <Problema>
+         <Fecha>19/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Programari bloquejat durant ús</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Canvi de cable</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>109</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>303</Dispositivo>
+      <Problema>
+         <Fecha>20/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>110</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>205</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>111</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>200</Dispositivo>
+      <Problema>
+         <Fecha>22/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>112</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Laboratori</Dispositivo>
+      <Problema>
+         <Fecha>23/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>113</ID>
+         <Nombre>Marc López</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>101</Dispositivo>
+      <Problema>
+         <Fecha>24/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>114</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>107</Dispositivo>
+      <Problema>
+         <Fecha>25/09/2024</Fecha>
+         <Tipo>Maquinari</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Tècnic en procés</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>115</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>Laboratori</Dispositivo>
+      <Problema>
+         <Fecha>26/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>116</ID>
+         <Nombre>Laura Martínez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>105</Dispositivo>
+      <Problema>
+         <Fecha>27/09/2024</Fecha>
+         <Tipo>Perifèrics</Tipo>
+         <Descripcion>Micròfon no es connecta</Descripcion>
+         <Prioridad>Baixa</Prioridad>
+         <ComentarioAdicional>Tècnic sol·licitat</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>117</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>310</Dispositivo>
+      <Problema>
+         <Fecha>28/09/2024</Fecha>
+         <Tipo>Hardware</Tipo>
+         <Descripcion>Contrassenya de l'aula exposada</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Programa s'ha d'actualitzar</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>118</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>david.hortelano.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>110</Dispositivo>
+      <Problema>
+         <Fecha>29/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>119</ID>
+         <Nombre>Luis Rodríguez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>308</Dispositivo>
+      <Problema>
+         <Fecha>30/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>No pot accedir a l'aula virtual</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>120</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>carlos.garcia.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>307</Dispositivo>
+      <Problema>
+         <Fecha>21/09/2024</Fecha>
+         <Tipo>Programari</Tipo>
+         <Descripcion>Ordinador no encén</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix tècnic urgent</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>121</ID>
+         <Nombre>Joan Pérez</Nombre>
+         <Correo>ibrahim.alam.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>202</Dispositivo>
+      <Problema>
+         <Fecha>15/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Impressora no respon</Descripcion>
+         <Prioridad>Mitjana</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+   <Incidencia>
+      <Usuario>
+         <ID>122</ID>
+         <Nombre>Ana Sánchez</Nombre>
+         <Correo>rehan.farooq.7e8@itb.cat</Correo>
+         <ProteccionDatos>He llegit la informació relativa sobre la protecció de dades</ProteccionDatos>
+      </Usuario>
+      <Dispositivo>301</Dispositivo>
+      <Problema>
+         <Fecha>16/09/2024</Fecha>
+         <Tipo>Xarxa</Tipo>
+         <Descripcion>Pantalla de projector no funciona</Descripcion>
+         <Prioridad>Alta</Prioridad>
+         <ComentarioAdicional>Requereix reset d'equip</ComentarioAdicional>
+      </Problema>
+   </Incidencia>
+</Incidencias>
