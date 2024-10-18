@@ -1,0 +1,144 @@
+<incidencies>
+    <incidencia>
+        <usuari>
+            <adreça>joel.munoz.7e8@itb.cat</adreça>
+            <nomcognoms>joel muñoz</nomcognoms>
+        </usuari>
+        <data>20/09/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Equips HW ( canvi / requeriment )</tipusincidencia>
+            <aula.sala>206</aula.sala>
+            <equip.serveiaf>N/A</equip.serveiaf>
+            <descripcióincidencia>No va el ratón</descripcióincidencia>
+            <nivelldeprioritat>Poc Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+
+    <incidencia>
+        <usuari>
+            <adreça>eric.vicente.7e8@itb.cat</adreça>
+            <nomcognoms>Eric Vicente López</nomcognoms>
+        </usuari>
+        <data>15/10/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Equips HW ( fallada )</tipusincidencia>
+            <aula.sala>104</aula.sala>
+            <equip.serveiaf>Ordenador 10</equip.serveiaf>
+            <descripcióincidencia>N/A</descripcióincidencia>
+            <nivelldeprioritat>Poc Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+
+<incidencia>
+        <usuari>
+            <adreça>eric.vicente.7e8@itb.cat</adreça>
+            <nomcognoms>Eric Vicente López</nomcognoms>
+        </usuari>
+        <data>17/10/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Projector</tipusincidencia>
+            <aula.sala>102</aula.sala>
+            <equip.serveiaf>Projector 2</equip.serveiaf>
+            <descripcióincidencia>El projector no enciende.</descripcióincidencia>
+            <nivelldeprioritat>Molt Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>luka.ukleba.7e8@itb.cat</adreça>
+            <nomcognoms>Luka Ukleba</nomcognoms>
+        </usuari>
+        <data>26/10/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Material Audiovisual (camares, llum...)</tipusincidencia>
+            <aula.sala>Planta 1-Aula 101</aula.sala>
+            <equip.serveiaf>N/A</equip.serveiaf>
+            <descripcióincidencia>No funciona</descripcióincidencia>
+            <nivelldeprioritat>Poc Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>joel.munoz.7e8@itb.cat</adreça>
+            <nomcognoms>Joel muñoz</nomcognoms>
+        </usuari>
+        <data>19/09/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Material Audiovisual (camares, llum...)</tipusincidencia>
+            <aula.sala>106</aula.sala>
+            <equip.serveiaf>N/A</equip.serveiaf>
+            <descripcióincidencia>La luz de clase no se enciende</descripcióincidencia>
+            <nivelldeprioritat>Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>eric.vicente.7e8@itb.cat</adreça>
+            <nomcognoms>Eric Vicente López</nomcognoms>
+        </usuari>
+        <data>20/09/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Programari ( canvi / alta / actualització / requeriment )</tipusincidencia>
+            <aula.sala>102</aula.sala>
+            <equip.serveiaf>Camara</equip.serveiaf>
+            <descripcióincidencia>La camara necessita ser canviada.</descripcióincidencia>
+            <nivelldeprioritat>Molt Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>aleix.tomas.7e8@itb.cat</adreça>
+            <nomcognoms>Aleix Tomas Fernandez</nomcognoms>
+        </usuari>
+        <data>06/11/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Equips HW ( fallada )</tipusincidencia>
+            <aula.sala>304</aula.sala>
+            <equip.serveiaf>N/A</equip.serveiaf>
+            <descripcióincidencia>Hi ha alguns cables Ethernet que no funciona</descripcióincidencia>
+            <nivelldeprioritat>Molt Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>joel.munoz.7e8@itb.cat</adreça>
+            <nomcognoms>Joel muñoz</nomcognoms>
+        </usuari>
+        <data>18/09/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Projector</tipusincidencia>
+            <aula.sala>107</aula.sala>
+            <equip.serveiaf>N/A</equip.serveiaf>
+            <descripcióincidencia>La luz de clase no se enciende </descripcióincidencia>
+            <nivelldeprioritat>Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>eric.vicente.7e8@itb.cat</adreça>
+            <nomcognoms>Eric Vicente López</nomcognoms>
+        </usuari>
+        <data>16/10/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Material Audiovisual (camares, llum...)</tipusincidencia>
+            <aula.sala>101  </aula.sala>
+            <equip.serveiaf>Camara 1</equip.serveiaf>
+            <descripcióincidencia>La camara esta bruta</descripcióincidencia>
+            <nivelldeprioritat>Molt Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    <incidencia>
+        <usuari>
+            <adreça>eric.vicente.7e8@itb.cat</adreça>
+            <nomcognoms>Eric Vicente López</nomcognoms>
+        </usuari>
+        <data>25/10/2024</data>
+        <infoincidencia>
+            <tipusincidencia>Equips HW ( fallada )</tipusincidencia>
+            <aula.sala>307</aula.sala>
+            <equip.serveiaf>Ordinador 5</equip.serveiaf>
+            <descripcióincidencia>N/A</descripcióincidencia>
+            <nivelldeprioritat>Poc Urgent</nivelldeprioritat>
+        </infoincidencia>
+    </incidencia>
+    </incidencies>
