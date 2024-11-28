@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRACIAS</title>
+    <link rel="stylesheet" href="../css/styles2.css">
+    <link rel="icon" href="../imagenes/patata.png">
+</head>
+<body>
+    <p id="redirect-message">Serás redirigido en 25 segundos...</p>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const redirectTime = 25000; // Tiempo en milisegundos
+        const redirectUrl = "index.html"; // URL de destino
+        const messageElement = document.getElementById("redirect-message");
+        messageElement.style.color = "white";
+        let remainingTime = redirectTime / 1000;
+
+        const countdown = setInterval(() => {
+            remainingTime--;
+            messageElement.textContent = `Serás redirigido en ${remainingTime} segundos...`;
+            if (remainingTime <= 0) {
+                clearInterval(countdown); // Detiene el contador
+            }
+        }, 1000);
+
+        setTimeout(() => {
+            window.location.href = redirectUrl; // Redirige a la nueva página
+        }, redirectTime);
+        // Crear un elemento de audio
+        const audio = new Audio('../audio/sonido.mp3'); // Ruta al archivo de sonido
+        audio.play().catch(error => {
+            console.error("No se pudo reproducir el sonido automáticamente:", error);
+         });
+    });
+</script>
+
+</body>
+</html>

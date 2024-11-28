@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyectos</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="icon" href="../imagenes/patata.png">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="proyectos1.html" class="activo">Proyectos</a></li>
+                <li><a href="index.html#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+        <section class="project-list">
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="../imagenes/protesis.jpg" alt="Sistema de Diagnóstico Médico Asistido por IA">
+                </div>
+                <div class="project-info">
+                    <h1>Impresión 3D de Prótesis Personalizadas</h1>
+                    <p>Un sistema que utiliza escáneres 3D y tecnologías de impresión 3D para crear prótesis personalizadas y económicas para personas con discapacidades físicas.</p>
+                    <a href="">Ver más detalles</a>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="../imagenes/dron.jpg" alt="Sistema de Diagnóstico Médico Asistido por IA">
+                </div>
+                <div class="project-info">
+                    <h1>Drones para Reforestación</h1>
+                    <p>Este proyecto emplea drones equipados con sistemas para sembrar semillas en áreas deforestadas o de difícil acceso.</p>
+                    <a href="">Ver más detalles</a>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="../imagenes/realidad_virtual.png" alt="Sistema de Diagnóstico Médico Asistido por IA">
+                </div>
+                <div class="project-info">
+                    <h1>Realidad Virtual para Rehabilitación Física</h1>
+                    <p>Este proyecto utiliza la realidad virtual (VR) para ayudar a los pacientes en su rehabilitación física tras lesiones o cirugías.</p>
+                    <a href="">Ver más detalles</a>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="../imagenes/aire.png" alt="Sistema de Diagnóstico Médico Asistido por IA">
+                </div>
+                <div class="project-info">
+                    <h1>Red de Sensores para Monitoreo de Calidad del Aire</h1>
+                    <p>Un sistema basado en sensores distribuidos en áreas urbanas para medir y analizar la calidad del aire en tiempo real.</p>
+                    <a href="">Ver más detalles</a>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="../imagenes/aprender.png" alt="Sistema de Diagnóstico Médico Asistido por IA">
+                </div>
+                <div class="project-info">
+                    <h1>Asistentes Virtuales para Educación Personalizada</h1>
+                    <p> Un sistema de inteligencia artificial diseñado para actuar como tutor virtual, adaptándose al nivel de aprendizaje de cada estudiante.</p>
+                    <a href="">Ver más detalles</a>
+                </div>
+            </div>
+            <div class="paginacion">
+                <script>
+                    document.addEventListener("DOMContentLoaded", () => {
+                    const totalPages = 3; // Total de páginas disponibles
+                    const currentPage = 2; // Página actual (puedes ajustar esta lógica)
+    
+                    const paginationContainer = document.createElement("div");
+                    paginationContainer.classList.add("paginacion");
+    
+        // Botón anterior
+                    const prevLink = document.createElement("a");
+                    prevLink.href = currentPage > 1 ? `proyectos${currentPage - 1}.html` : "#";
+                    prevLink.textContent = "<-";
+                    prevLink.classList.toggle("disabled", currentPage === 1);
+                    paginationContainer.appendChild(prevLink);
+    
+        // Texto de la paginación
+                    const pageText = document.createElement("p");
+                    pageText.textContent = `${currentPage}/${totalPages}`;
+                    paginationContainer.appendChild(pageText);
+    
+        // Botón siguiente
+                    const nextLink = document.createElement("a");
+                    nextLink.href = currentPage < totalPages ? `proyectos${currentPage + 1}.html` : "#";
+                    nextLink.textContent = "->";
+                    nextLink.classList.toggle("disabled", currentPage === totalPages);
+                    paginationContainer.appendChild(nextLink);
+    
+        // Insertar en el DOM
+                    const mainSection = document.querySelector("main");
+                    mainSection.appendChild(paginationContainer);
+                    });
+    
+                </script>
+                </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Grupo 3</p>
+        <div class="social-links">
+            <a href="https://facebook.com">Facebook</a> |
+            <a href="https://twitter.com">Twitter</a> |
+            <a href="https://www.instagram.com">Instagram</a>
+        </div>
+    </footer>
+</body>
+</html>
